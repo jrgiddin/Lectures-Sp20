@@ -3,7 +3,7 @@
 ## Monday : Welcome!
 
 **01_01_welcome**
-- [Video](Coming Soon)
+- [Video](https://youtu.be/zMmMakbEclM)
 - [Slides](https://github.com/COGS108/Lectures-Sp20/tree/master/01_data_science/01_01_welcome.pdf)
 
 ## Wednesday: Introduction to Data Science
