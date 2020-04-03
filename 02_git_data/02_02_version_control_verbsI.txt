@@ -1,0 +1,222 @@
+Version Control: Verbs I 
+Shannon E. Ellis, Ph.D
+UC San Diego
+
+Department of Cognitive Science
+sellis@ucsd.edu
+Plan:
+Gain familiarity with basic version control processes
+Introduce the basic version control verbs
+
+repo
+A GitHub repo contains all the files and folders for your project.
+File2
+File1
+repo
+GitHub is a remote host. The files are geographically distant from any files on your computer.
+
+clone
+repo
+File2
+File1
+repo
+When you first make a copy onto your local computer (read: laptop), you clone the repository.
+
+clone
+repo
+File2
+File1
+repo
+clone
+If someone else on your project cloned the repo at the same time, you would have identical copies of the project on each of your computers.
+
+clone
+repo
+File2
+File1
+repo
+clone
+Yay! Everyone can work on the project! 
+
+repo
+File2
+File1
+repo
+You decide you want to change a few of the images in the project.
+
+repo
+File2
+File1
+repo
+You decide you want to change a few of the images in the project.
+cow.png
+bunny.png
+
+repo
+File2
+File1
+repo
+without git...you’d likely rename these files….
+cow.png
+bunny.png
+bunny_pink.png
+cow_green.png
+
+repo
+File2
+File1
+repo
+Thank goodness those days are over!
+cow.png
+bunny.png
+bunny_pink.png
+cow_green.png
+
+repo
+File2
+File1
+repo
+Instead, you tell git which files you’d like to keep track of using add. This process is called staging.
+cow.png
+bunny.png
+
+repo
+File2
+File1
+repo
+cow.png
+bunny.png
+Instead, you tell git which files you’d like to keep track of using add. This process is called staging.
+git add file
+stages specified file (or folder)
+git add .
+stages new and modified files
+git add -u
+stages modified and deleted files
+git add -A
+stages new, modified, and deleted files
+git add *.csv
+Stages any files with .csv extension
+git add *
+Use with caution: stages everything
+
+repo
+File2
+File1
+repo
+Then, you create a snapshot of your files at this point. This snapshot is called a commit.
+cow.png
+bunny.png
+
+repo
+File2
+File1
+repo
+Then, you create a snapshot of your files at this point. This snapshot is called a commit.
+cow.png
+bunny.png
+A commit tracks who, what, and when 
+
+repo
+File2
+File1
+repo
+Then, you create a snapshot of your files at this point. This snapshot is called a commit.
+cow.png
+bunny.png
+You can make commits more informative by adding a commit message.
+
+Example: git commit -m “changed colors for animal icons”
+A commit tracks who, what, and when 
+
+repo
+File2
+File1
+repo
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+
+repo
+File2
+File1
+repo
+Remember, you’re not the only one working on this project though! You want your teammates to have access to these changes! You push these changes back to the remote.
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+push
+
+repo
+File2
+File1
+repo
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+Your teammate is still working with the (out-of-date) copy he cloned earlier!
+
+repo
+File2
+File1
+repo
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+Your teammate is still working with the (out-of-date) copy he cloned earlier!
+To catch up, your teammate will have to pull the changes from GitHub (remote) 
+
+repo
+File2
+File1
+repo
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+Your teammate pulls from remote and is now up-to-date!
+pull
+
+repo
+File2
+File1
+repo
+Shannon Ellis
+11/28/18 3:28pm
+
+changed colors for animal icons
+Your teammate pulls from remote and is now up-to-date!
+pull
+cow.png
+bunny.png
+The files in his project locally will now have the updated images
+
+File2
+File1
+repo
+commit
+push
+clone
+pull
+remote host
+local host
+Let’s recap real quick!
+repo - set of files and folders for a project
+remote - where the repo lives
+clone - get the repo from the remote for the first time 
+add - specify which files you want to stage (add to repo)
+commit - snapshot of your files at a point in time
+pull - get new commits to the repo from the remote 
+push - send your new commits to the remote
