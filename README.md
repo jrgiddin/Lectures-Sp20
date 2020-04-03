@@ -8,6 +8,7 @@ Each week's materials contain a README explaining what is due throughout the wee
 
 |Week  | General Topic  | Link to Materials   | 
 |---|:---|:---|
+| Course How-tos   | [how_tos](https://github.com/COGS108/Lectures-Sp20/tree/master/how_tos)   | 
 | 01 | Introduction to Data Science   | [01_data_science](https://github.com/COGS108/Lectures-Sp20/tree/master/01_data_science)   | 
 | 02 | Version Control & Data  | [02_git_data](https://github.com/COGS108/Lectures-Sp20/tree/master/02_git_data) |
 | 03 | Data Wrangling   | [03_wrangling](https://github.com/COGS108/Lectures-Sp20/tree/master/03_wrangling) |
