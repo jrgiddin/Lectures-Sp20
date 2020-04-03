@@ -11,7 +11,7 @@
 ### Updates:
 
 - All Zoom links (discussion, office hours) are available on the Course Canvas 
-- Answers to week 1 quizzes now viewable on Canvas
+- Answers to each week's quizzes will be viewable the following week
 - How To: datahub video now available: https://youtu.be/h5ktVD89jug
 	- If you've never used datahub, be sure to watch it
 	- Describes how to fetch, complete, and submit assignments
