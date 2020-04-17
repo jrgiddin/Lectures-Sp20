@@ -25,7 +25,7 @@
 
 **04_03_descriptive_examples**
 - [Video](https://youtu.be/EvX-lsRFjAw)
-- [Notebook](https://github.com/COGS108/Lectures-Sp20/blob/master/04_viz/04_03_descriptive_examples.ipynb)
+- [Notebook](https://github.com/COGS108/Lectures-Sp20/blob/master/04_viz/04_03_descriptive_example.ipynb)
 
 
 ## Wednesday: Dataviz II
