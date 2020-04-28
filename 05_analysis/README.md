@@ -33,6 +33,10 @@
 
 ## Wednesday: Inference II
 
+**Mid-course survey** (optional)
+- [survey](https://bit.ly/cogs108_mid_sp20)
+- EC if completed by Thursday at 11:59 PM
+
 **05_04_example**
 - [Video](https://youtu.be/85Ie_P7jfWM)
 - [Notebook](https://github.com/COGS108/Lectures-Sp20/blob/master/05_analysis/05_04_example.ipynb)
