@@ -8,7 +8,7 @@
 - A2 due Friday (5/1; 11:59 PM)
 
 ### Updates/Reminders:
-- A4 will be released/available on Monday (4/27)
+- A4 will be released/available next Monday (5/4) [edited 4/28]
 - A1 will be graded this week (all assignments are graded after the late deadline)
 	- A note will be posted on Piazza when this happens
 	- Grades will be posted on Canvas
