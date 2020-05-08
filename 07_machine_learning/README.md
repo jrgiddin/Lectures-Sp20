@@ -11,6 +11,9 @@
 - For those working on group projects:
 	- typically by the end of week 7, datasets has been decided on and EDA is underway
 	- I'll be posting a video with more details about the group final project next week
+- The most up-to-date zoom links are in the Zoom Directory on the Canvas Home Page
+	- If you ever find a link not working, double check it's the right link in the zoom directory 
+	- Apologies to anyone who tried to go to Will's OH last Friday using the old zoom link (totally my fault that you still saw the old link on the course calendar. That has now been deleted. Use link on Zoom directory going forward, please!)
 
 ## Monday : Machine Learning I
 
