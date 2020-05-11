@@ -3,7 +3,7 @@
 ### Deadlines:
 
 - Weekly quizzes: MWF
-- A4 due Friday (5/8; 11:59 PM)
+- A4 due Friday (5/15; 11:59 PM)
 
 ### Updates/Reminders:
 - A5 will be released Monday
