@@ -30,4 +30,4 @@
 ## Friday: Guest Lecture II
 
 **09_04_guest_lecture**
-- [Video](https://youtu.be/3gF8i5JUeYo)
+- [Video](https://youtu.be/Vz7-wMU0NFs)
