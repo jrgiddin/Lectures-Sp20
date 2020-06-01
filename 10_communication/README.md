@@ -22,7 +22,7 @@
 - Please fill out your CAPEs!
 - How to calculate your final grade (apologies that this is a tad confusing and that canvas isn't totally right):
 	- To figure out how many video quiz points you have:
-		- *total quiz points / 209 / 0.1045* (there are 229 points possible, so 209 with 20 free; the 0.1045 is to scale the value)
+		- *total quiz points / 0.1045* (there are 229 points possible, so 209 with 20 free, leading to  0.1045 is to scale the value to the 20 possible total points) [edited: 6/1]
 	- Add that value + assignment points + project points (proposal, final project, survey) + extra credit
 
 
